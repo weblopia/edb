@@ -1,0 +1,4 @@
+ebin/
+deps/
+**/.idea
+**/erl_crash.dump
